@@ -13,9 +13,9 @@ n2 = Convert.ToInt32(Console.ReadLine());
 if (n2 == 0)
 {
  
-{
+
     Console.WriteLine("tu fez uma cagada aí, faz direito!");
-}
+
 }
 else
 {
